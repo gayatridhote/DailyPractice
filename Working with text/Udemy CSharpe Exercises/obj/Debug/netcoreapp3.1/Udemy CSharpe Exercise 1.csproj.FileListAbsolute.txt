@@ -1,0 +1,13 @@
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\bin\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.exe
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\bin\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.deps.json
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\bin\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.runtimeconfig.json
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\bin\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.runtimeconfig.dev.json
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\bin\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.dll
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\bin\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.pdb
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\obj\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\obj\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.AssemblyInfoInputs.cache
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\obj\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.AssemblyInfo.cs
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\obj\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\obj\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.dll
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\obj\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.pdb
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Udemy CSharpe Exercises\obj\Debug\netcoreapp3.1\Udemy CSharpe Exercise 1.genruntimeconfig.cache
