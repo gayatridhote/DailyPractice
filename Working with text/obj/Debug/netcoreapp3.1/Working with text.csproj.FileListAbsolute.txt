@@ -1,0 +1,14 @@
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\bin\Debug\netcoreapp3.1\Working with text.exe
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\bin\Debug\netcoreapp3.1\Working with text.deps.json
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\bin\Debug\netcoreapp3.1\Working with text.runtimeconfig.json
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\bin\Debug\netcoreapp3.1\Working with text.runtimeconfig.dev.json
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\bin\Debug\netcoreapp3.1\Working with text.dll
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\bin\Debug\netcoreapp3.1\Working with text.pdb
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\obj\Debug\netcoreapp3.1\Working with text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\obj\Debug\netcoreapp3.1\Working with text.AssemblyInfoInputs.cache
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\obj\Debug\netcoreapp3.1\Working with text.AssemblyInfo.cs
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\obj\Debug\netcoreapp3.1\Working with text.csproj.CoreCompileInputs.cache
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\obj\Debug\netcoreapp3.1\Working with text.dll
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\obj\Debug\netcoreapp3.1\Working with text.pdb
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\obj\Debug\netcoreapp3.1\Working with text.genruntimeconfig.cache
+C:\Users\GDHOTE\source\repos\Udemy CSharpe Exercises\Working with text\obj\Debug\netcoreapp3.1\Working with text.csproj.AssemblyReference.cache
